@@ -1,7 +1,7 @@
 # HSParty
 
 # The goal :
-Make ourselves the game we (H1Z1 players) always wanted but never had.
+Make ourselves the H1Z1 we always wanted but never had, focusing the CombatZone Mode first as an experiment.
 Create a community movement & motivation to change the current gaming industry with lazy/unaware gaming studios about what players wants.
 Push forward the FreeToPlay model as a new gaming standard.
 
