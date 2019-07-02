@@ -7,4 +7,4 @@ Push forward the FreeToPlay model as a new gaming standard.
 
 # People we need : 
 Everybody is more than welcome to help on this project and futher ones.
-Any level of experience is always needed, so feel free to join the cause and help us with your personnal touchs, they will always be appreciated.
+Any level of experience is always needed, so feel free to join the cause and help us with your personnal touch, it will always be appreciated.
